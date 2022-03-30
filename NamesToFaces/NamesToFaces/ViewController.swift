@@ -42,6 +42,7 @@ class ViewController: UICollectionViewController, UIImagePickerControllerDelegat
         if let jpegData = image.jpegData(compressionQuality: 0.8) {
             try? jpegData.write(to: imagePath)
         }
+        dismiss(animated: true)
     }
     
     func getDocumentsDirectory() -> URL {
