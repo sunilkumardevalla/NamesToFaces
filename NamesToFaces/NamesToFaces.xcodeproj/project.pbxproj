@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A320F17327F4B96E00C35620 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = A320F17227F4B96D00C35620 /* Person.swift */; };
 		A3E6CBD527F203CE0075B3B5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E6CBD427F203CE0075B3B5 /* AppDelegate.swift */; };
 		A3E6CBD727F203CE0075B3B5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E6CBD627F203CE0075B3B5 /* SceneDelegate.swift */; };
 		A3E6CBD927F203CE0075B3B5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3E6CBD827F203CE0075B3B5 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A320F17227F4B96D00C35620 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		A3E6CBD127F203CE0075B3B5 /* NamesToFaces.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NamesToFaces.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E6CBD427F203CE0075B3B5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A3E6CBD627F203CE0075B3B5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				A3E6CBD627F203CE0075B3B5 /* SceneDelegate.swift */,
 				A3E6CBE827F205870075B3B5 /* PersonCell.swift */,
 				A3E6CBD827F203CE0075B3B5 /* ViewController.swift */,
+				A320F17227F4B96D00C35620 /* Person.swift */,
 				A3E6CBDA27F203CE0075B3B5 /* Main.storyboard */,
 				A3E6CBDD27F203CF0075B3B5 /* Assets.xcassets */,
 				A3E6CBDF27F203CF0075B3B5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A320F17327F4B96E00C35620 /* Person.swift in Sources */,
 				A3E6CBD927F203CE0075B3B5 /* ViewController.swift in Sources */,
 				A3E6CBD527F203CE0075B3B5 /* AppDelegate.swift in Sources */,
 				A3E6CBE927F205870075B3B5 /* PersonCell.swift in Sources */,
