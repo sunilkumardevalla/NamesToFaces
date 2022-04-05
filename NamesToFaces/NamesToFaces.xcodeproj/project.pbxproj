@@ -60,12 +60,12 @@
 			children = (
 				51AE37F91D65196900A73A03 /* AppDelegate.swift */,
 				51AE37FB1D65196900A73A03 /* ViewController.swift */,
-				51AE37FD1D65196900A73A03 /* Main.storyboard */,
+				51AE380F1D65282A00A73A03 /* Person.swift */,
 				51AE380B1D65201E00A73A03 /* PersonCell.swift */,
+				51AE37FD1D65196900A73A03 /* Main.storyboard */,
 				51AE38001D65196900A73A03 /* Assets.xcassets */,
 				51AE38021D65196900A73A03 /* LaunchScreen.storyboard */,
 				51AE38051D65196900A73A03 /* Info.plist */,
-				51AE380F1D65282A00A73A03 /* Person.swift */,
 			);
 			path = NamesTofaces;
 			sourceTree = "<group>";
@@ -293,7 +293,7 @@
 				DEVELOPMENT_TEAM = B5C26XE59E;
 				INFOPLIST_FILE = "$(SRCROOT)/NamesTofaces/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hackingwithswift.Project10;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appsbysunny.NamesToFaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 5.0;
@@ -307,7 +307,7 @@
 				DEVELOPMENT_TEAM = B5C26XE59E;
 				INFOPLIST_FILE = "$(SRCROOT)/NamesTofaces/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.hackingwithswift.Project10;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appsbysunny.NamesToFaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 5.0;
